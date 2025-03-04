@@ -1,3 +1,5 @@
+![{CCE40EEF-99AE-4760-9099-CAF31268E68D}](https://github.com/user-attachments/assets/b0c90af5-1ed4-4bb8-b80d-df172ce0028f)
+
 # Steam Workshop Exporter for Space Engineers
 
 A Tampermonkey script that helps you export your Steam Workshop subscriptions in a format compatible with Space Engineers server configuration.
